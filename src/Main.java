@@ -19,6 +19,6 @@ public class Main {
         phone.setColorPhone("green");
         phone2.setModel("Iphone 14");
         phone3.setWeight("158");
-
+        System.out.println("zxc");
     }
 }
